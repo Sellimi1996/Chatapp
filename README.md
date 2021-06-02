@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-My app available online in : https://tunisian-chat-app.netlify.app use this member to conect (username:Developer  password: fullstack2021)
+My app available online in : https://tunisian-chat-app.netlify.app use this member to conecte (username:Developer  password: fullstack2021)
 
 ## Available Scripts
 
